@@ -7,8 +7,8 @@
   
   
 # ↓↓↓↓↓↓↓↓↓↓↓↓↓  
-[はじめに](https://ksiwbtg.github.io/enPiT2019-yamaguchi/hazimeni "はじめにへジャンプ")
+[⓵はじめに](https://ksiwbtg.github.io/enPiT2019-yamaguchi/hazimeni "はじめにへジャンプ")
 
-
+[⓶趣味について]("https://ksiwbtg.github.io/enPiT2019-yamaguchi/syumi "趣味へジャンプ")
 
 
