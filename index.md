@@ -7,7 +7,7 @@
   
   
 # ↓↓↓↓↓↓↓↓↓↓↓↓↓  
-[はじめに](
+[はじめに](https://ksiwbtg.github.io/enPiT2019-yamaguchi/hazimeni "はじめにへジャンプ")
 
 
 
